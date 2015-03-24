@@ -1,0 +1,20 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\scripts\timePlaySession.cs">
+    <Files>
+      <File FileName="Assets\scripts\licht.cs" Line="1" Column="1" />
+      <File FileName="Assets\scripts\UIInputField.cs" Line="44" Column="29" />
+      <File FileName="Assets\scripts\sceneTimer.cs" Line="1" Column="1" />
+      <File FileName="Assets\scripts\LolWat.cs" Line="1" Column="1" />
+      <File FileName="Assets\scripts\cubesDraaien.cs" Line="24" Column="1" />
+      <File FileName="Assets\scripts\GyroscopeMovement.cs" Line="1" Column="1" />
+      <File FileName="Assets\scripts\pressButton.cs" Line="1" Column="1" />
+      <File FileName="Assets\scripts\playPhase.cs" Line="88" Column="36" />
+      <File FileName="Assets\scripts\timePlaySession.cs" Line="11" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
