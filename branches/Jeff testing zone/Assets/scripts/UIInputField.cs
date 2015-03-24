@@ -42,7 +42,7 @@ public class UIInputField : MonoBehaviour
 			PlayerPrefs.SetString("Aantal", charText.text);
 			aantal = PlayerPrefs.GetString("Aantal");
 			outcome = float.Parse(aantal);
-			script.ChangeToScene("Level_1");
+			script.ChangeToScene("HeadphoneScreen");
 		}
 
 		else if (placeholderText.enabled == true)
